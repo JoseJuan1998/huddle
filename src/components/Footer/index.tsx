@@ -12,12 +12,15 @@ export default function Footer() {
         <Flex>
           <ul>
             <li>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo perspiciatis voluptates fuga est? Consequatur voluptate a cum iste. Voluptate dolorem eum inventore dolore ut modi eos ad repellat minus tempore!
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo
+              perspiciatis voluptates fuga est? Consequatur voluptate a cum
+              iste. Voluptate dolorem eum inventore dolore ut modi eos ad
+              repellat minus tempore!
             </li>
             <li>+1-543-123-4567</li>
             <li>example@huddle.com</li>
           </ul>
-          
+
           <ul>
             <li>About Us</li>
             <li>What We Do?</li>

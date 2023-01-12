@@ -8,5 +8,9 @@ export interface IStyledHeader {
 }
 
 export interface IHeader {
-  children: JSX.Element | JSX.Element[]
+  theme?: {
+    colors?: {
+      header?: string
+    }
+  }
 }

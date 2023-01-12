@@ -7,13 +7,19 @@ export default function SocialIcons() {
     <StyledSocialIcons>
       <ul>
         <li>
-          <a href='facebook.com'><FaFacebook/></a>
+          <a href='facebook.com'>
+            <FaFacebook />
+          </a>
         </li>
         <li>
-          <a href='twitter.com'><FaTwitter/></a>
+          <a href='twitter.com'>
+            <FaTwitter />
+          </a>
         </li>
         <li>
-          <a href='linkedin.com'><FaLinkedin/></a>
+          <a href='linkedin.com'>
+            <FaLinkedin />
+          </a>
         </li>
       </ul>
     </StyledSocialIcons>
